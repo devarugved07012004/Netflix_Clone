@@ -19,7 +19,7 @@ This project is a simple Netflix clone built with HTML and CSS, aiming to replic
 1. Clone the repository:
 
     ```
-    git clone https://github.com/devarugved07012004/Netflix_clone.git
+    git clone https://github.com/devarugved07012004/Netflix_Clone.git
     ```
 
 2. Open `index.html` in your preferred web browser.
